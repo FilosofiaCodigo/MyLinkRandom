@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.0;
 
-import "./VRFConsumerBase.sol";
+import "./dependencies/VRFConsumerBase.sol";
 
 contract MyLinkRandom is VRFConsumerBase {
   bytes32 internal keyHash;
