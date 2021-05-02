@@ -9,7 +9,7 @@ npm install --save-dev @nomiclabs/hardhat-waffle ethereum-waffle chai
 
 # Setup
 
-Set the following variables the information needed as stated by the chainlink documentation in the `scripts/sample-script.js`. By default is set to work for the mumbai maitc network.
+Set the following variables the information needed as stated by the [chainlink documentation](https://docs.chain.link/docs/vrf-contracts/) in the `scripts/sample-script.js`. By default is set to work for the mumbai maitc network.
 
 ```js
 LINK_TOKEN = "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
