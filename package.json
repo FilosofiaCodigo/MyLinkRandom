@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.3.0",
+    "hardhat": "^2.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
